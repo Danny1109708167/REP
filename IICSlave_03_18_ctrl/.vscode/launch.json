@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/8/Desktop/MCU/PY/002b/PY32F002B_Firmware_V1.2.1/Templates/PY32F002Bxx_Templates/Src",
+      "program": "c:/Users/8/Desktop/MCU/PY/002b/PY32F002B_Firmware_V1.2.1/Templates/PY32F002Bxx_Templates/Src/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

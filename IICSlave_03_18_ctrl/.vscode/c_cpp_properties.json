@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "windows-gcc-x64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/** C:\\Users\\8\\Desktop\\MCU\\PY\\002b\\PY32F002B_Firmware_V1.2.1\\Drivers",
+                "${workspaceFolder}/** C:\\Users\\8\\Desktop\\MCU\\PY\\002b\\PY32F002B_Firmware_V1.2.1\\Templates\\PY32F002Bxx_Templates/Inc"
+            ],
+            "compilerPath": "C:/Users/8/Desktop/mingw/mingw64/bin/gcc.exe",
+            "cStandard": "${default}",
+            "cppStandard": "${default}",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerArgs": [
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
